@@ -1,2 +1,6 @@
 # equinox-privacy
-Privacy policy for Equinox iOS app
+
+This site now redirects to the official Equinox app pages at crawik.com.
+
+- Privacy Policy: https://crawik.com/equinox/privacy
+- Support: https://crawik.com/equinox/support
